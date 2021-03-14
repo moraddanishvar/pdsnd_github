@@ -9,6 +9,7 @@
     "import time\n",
     "import pandas as pd\n",
     "import numpy as np\n",
+    "#Apply some changes \n",
     "\n",
     "CITY_DATA = { 'chicago': 'chicago.csv',\n",
     "              'new york city': 'new_york_city.csv',\n",
